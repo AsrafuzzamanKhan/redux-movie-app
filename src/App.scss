@@ -1,0 +1,11 @@
+@import '../src/common/colors.scss';
+
+body{
+    background: $primary-color;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    margin: 0px 40px;
+}
